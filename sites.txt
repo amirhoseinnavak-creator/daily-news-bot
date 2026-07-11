@@ -8,7 +8,6 @@
 # ==========================
 # IRANIAN CINEMA
 # ==========================
-
 https://www.cinemapress.ir
 https://www.cinemacinema.ir
 https://www.sourehcinema.ir/
@@ -37,93 +36,3 @@ https://www.aftabnews.ir
 https://www.filimo.com/news
 https://www.filmnet.ir/news
 https://www.namava.ir/blog
-
-# ==========================
-# INTERNATIONAL FILM NEWS
-# ==========================
-
-https://variety.com
-https://deadline.com
-https://www.hollywoodreporter.com
-https://www.thewrap.com
-https://www.indiewire.com
-https://www.screendaily.com
-https://collider.com
-https://screenrant.com
-https://www.empireonline.com
-https://www.totalfilm.com
-https://www.movieweb.com
-https://www.slashfilm.com
-https://www.firstshowing.net
-https://www.joblo.com
-https://www.darkhorizons.com
-https://www.worldofreel.com
-https://www.denofgeek.com
-https://www.gamesradar.com
-https://www.cbr.com
-https://www.comingsoon.net
-https://www.cinemablend.com
-https://theplaylist.net
-https://www.avclub.com/movies-tv
-https://www.vulture.com
-https://bloody-disgusting.com
-https://www.animationmagazine.net
-https://cineuropa.org
-
-# ==========================
-# FILM CRITICISM
-# ==========================
-
-https://www.rogerebert.com
-https://www.filmcomment.com
-https://www.brightlightsfilm.com
-https://www.sensesofcinema.com
-https://lwlies.com
-https://www.filmstories.co.uk
-https://www.cineaste.com
-
-# ==========================
-# FESTIVALS
-# ==========================
-
-https://www.festival-cannes.com
-https://www.berlinale.de
-https://www.labiennale.org
-https://tiff.net
-https://festival.sundance.org
-https://tribecafilm.com
-https://iffr.com
-https://filmfestlocarno.com
-
-# ==========================
-# AWARDS
-# ==========================
-
-https://www.oscars.org/news
-https://www.bafta.org
-https://www.goldenglobes.com
-https://www.criticschoice.com
-
-# ==========================
-# DATABASES
-# ==========================
-
-https://www.imdb.com/news
-https://www.boxofficemojo.com
-https://www.the-numbers.com
-https://www.rottentomatoes.com
-https://letterboxd.com
-
-# ==========================
-# STREAMING & STUDIOS
-# ==========================
-
-https://www.netflix.com/tudum
-https://news.disney.com
-https://press.wbd.com
-https://www.paramount.com/news
-https://www.sonypictures.com/news
-https://www.universalpictures.com/news
-https://a24films.com/news
-https://press.amazonmgmstudios.com
-https://www.apple.com/tv-pr
