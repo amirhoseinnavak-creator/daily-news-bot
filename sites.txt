@@ -1,13 +1,6 @@
 # آدرس سایت‌هایی که می‌خوای اخبارشون رو دریافت کنی رو اینجا بنویس
 # هر خط یک سایت. خط‌هایی که با # شروع بشن نادیده گرفته می‌شن.
 # مثال:
-# https://www.isna.ir
-# https://www.mehrnews.com
-# https://www.digikala.com/mag
-
-# ==========================
-# IRANIAN CINEMA
-# ==========================
 https://www.cinemapress.ir
 https://www.cinemacinema.ir
 https://www.sourehcinema.ir/
@@ -22,17 +15,6 @@ https://www.honaronline.ir
 https://www.farsnews.ir/culture/cinema
 https://www.isna.ir/service/culture-and-art/cinema
 https://www.mehrnews.com/service/culture/cinema
-https://www.irna.ir/service/culture
-https://www.ilna.ir/culture
-https://www.mizanonline.ir/service/culture
-https://www.yjc.ir/fa/culture
-https://www.borna.news
-https://www.khabaronline.ir
-https://www.hamshahrionline.ir/service/art
-https://www.tabnak.ir
-https://www.asriran.com
-https://www.entekhab.ir
-https://www.aftabnews.ir
 https://www.filimo.com/news
 https://www.filmnet.ir/news
 https://www.namava.ir/blog
