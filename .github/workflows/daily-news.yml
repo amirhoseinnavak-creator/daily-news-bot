@@ -2,8 +2,8 @@ name: Daily News Fetcher
 
 on:
   schedule:
-    - cron: "30 5 * * *"
-  workflow_dispatch: {}
+    - cron: "30 6 * * *"   # اجرای روزانه ساعت 10:00 صبح به وقت ایران
+  workflow_dispatch: {}   # امکان اجرای دستی از تب Actions
 
 permissions:
   contents: write
